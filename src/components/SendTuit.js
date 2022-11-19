@@ -10,7 +10,7 @@ function SendTuit() {
             <Form.Control type="text" placeholder="tu nick chori"></Form.Control>
           </Form.Group>
           <Form.Group className="mb-3" id="formMessage">
-            <Form.Control as="textarea" rows={3} placeholder="tu tuit anónimo"></Form.Control>
+            <Form.Control as="textarea" rows={3} placeholder="tu xtuit anónimo"></Form.Control>
           </Form.Group>
           <Form.Group className="mb-3" id="formSubmit">
             <Button variant="primary" type="button">tuitear!</Button>
